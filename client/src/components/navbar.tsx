@@ -12,11 +12,15 @@ import Link from "next/link";
 const navigationItems = [
   {
     label: "Página Inicial",
-    href: "/home",
+    href: "/",
   },
   {
     label: "Posts",
     href: "/posts",
+  },
+  {
+    label: "Criar Post",
+    href: "/posts/create",
   },
 ];
 
