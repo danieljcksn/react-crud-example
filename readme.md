@@ -1,7 +1,7 @@
 """
-# Sistema CRUD para Posts de Blog - Documentação de Projeto
+# CRUD para Posts de Blog
 
-Este documento serve como um guia formal para a configuração e execução do sistema CRUD de posts de um blog, elaborado como parte de uma atividade da disciplina de Engenharia de Software. O sistema é composto por uma aplicação servidor, uma interface cliente e um script seeder para a geração de dados fictícios.
+Este documento serve como um guia a configuração e execução do sistema CRUD de posts de um blog, elaborado como parte de uma atividade da disciplina de Engenharia de Software. O sistema é composto por uma aplicação servidor, uma interface cliente e um script seeder para a geração de dados fictícios.
 
 ![Screenshot de demonstração](images/shot.png "Screenshot de demonstração")
 
