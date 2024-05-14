@@ -4,6 +4,11 @@ Este documento serve como um guia a configuração e execução do sistema CRUD 
 
 ![Screenshot de demonstração](images/shot.png "Screenshot de demonstração")
 
+## Integrantes da Equipe
+- Adriel Fabrício
+- Daniel Jackson
+- Marcus Vinicius
+
 ## Estrutura Tecnológica
 
 - **Servidor**: Implementado em Node.js.
