@@ -53,7 +53,6 @@ Para popular o banco de dados com posts fictícios, siga as instruções abaixo:
 2. Execute o script de geração de dados:
     ```bash
     python -m venv venv
-    python seeder.py
     source venv/bin/activate # Ou venv\Scripts\activate no Windows
 
 3. Instale as dependências:
