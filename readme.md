@@ -20,7 +20,11 @@ Para iniciar a aplicação do servidor, execute os seguintes passos:
    ```bash
    cd server
 
-2. Inicie a aplicação utilizando Node.js:
+2. Instale as dependências (considerando a utilização do npm):
+   ```bash
+   npm install
+
+3. Inicie a aplicação utilizando Node.js:
    ```bash
    node server.js
 
@@ -31,7 +35,11 @@ Para execução do projeto `Next.js`:
    ```bash
    cd client
 
-2. Inicie a aplicação React Next:
+2. Instale as dependências:
+   ```bash
+   npm install
+
+3. Inicie a aplicação React Next:
    ```bash
    npm run dev
 
